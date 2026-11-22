@@ -1,37 +1,65 @@
-# 🚀 JARVIS AI – Initial Release v1.0.0
+<div align="center">
 
-Introducing JARVIS AI, an intelligent personal assistant project designed to bring AI-powered interaction, automation, and productivity into one unified system.
+# Hi, I'm Aleeza Kazmi 👋
 
-### ✨ Core Technologies
-- Python
-- Google Gemini API
-- LangChain & LangGraph
-- FastAPI & Uvicorn
-- SQLite & AsyncSQLite
-- Telegram Bot API
-- Tavily Search API
-- APScheduler
+### Full-Stack Developer | AI & Machine Learning Enthusiast
 
-### 🧠 Project Capabilities
-- AI-powered conversational assistance
-- Intelligent agent workflows
-- Persistent state and checkpoint storage
-- Task scheduling and automation
-- Telegram integration
-- Web search capabilities
+Building modern web applications and intelligent digital solutions.
 
-### 🛠️ Installation
-Clone the repository and install dependencies:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+%26+Flask+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
-```bash
-git clone https://github.com/Aleezy-code/ai-personal-assistant.git
-cd ai-personal-assistant
-pip install -r requirements.txt
-```
+</div>
 
-### 🎯 Release Information
-- Version: 1.0.0
-- Release Type: Initial Release
-- Project: AI Personal Assistant – JARVIS Agent
+---
 
-**JARVIS AI — Intelligence Meets Productivity.**
+## 👩‍💻 About Me
+
+- 💻 Full-Stack Developer specializing in MERN Stack.
+- 🤖 Interested in Artificial Intelligence and Machine Learning.
+- 🐍 Building applications with Python and Flask.
+- 🌱 Continuously learning and exploring new technologies.
+- 🚀 Passionate about creating useful digital experiences.
+
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| Nexora BusinessOS | MERN Business Management Application |
+| AI Career Navigator | AI-powered Resume Analyzer |
+| Customer Churn ML | Machine Learning Prediction |
+| Flask Analytics Dashboard | Data Analytics & Visualization |
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleezy-code&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezy-code&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Aleezy-code&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+### ✨ Let's Connect & Build Something Amazing!
+
+**Open to learning, collaboration and exciting opportunities.**
+
+</div>
