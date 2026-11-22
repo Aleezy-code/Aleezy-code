@@ -35,21 +35,20 @@ Building modern web applications and intelligent digital solutions.
 
 ## 🚀 Featured Projects
 
-### 1. Nexora BusinessOS
-A modern MERN-based business management application.
+### 💼 Nexora BusinessOS
+A modern SaaS business management platform built with Next.js, TypeScript and Tailwind CSS.
 
-[View Project →](https://github.com/Aleezy-code/nexora-businessos)
+[GitHub Repository](https://github.com/Aleezy-code/nexora-businessos) | [Live Demo](https://nexora-businessos.vercel.app/)
 
-### 2. AI Career Navigator
-An AI-powered resume analyzer using NLP and skill matching.
+### 🤖 AI Career Navigator
+An AI-powered resume analyzer that extracts skills from PDFs, analyzes candidate profiles and matches relevant job roles using NLP.
 
-[View Project →](https://github.com/Aleezy-code/AI-Career-Navigator)
+[GitHub Repository](https://github.com/Aleezy-code/AI-Career-Navigator)
 
-### 3. Customer Churn Prediction
-Machine Learning project for predicting customer churn.
+### 🎮 Web Pranks
+An interactive React and TypeScript web experience featuring physics-based animations, creative browser effects and arcade games.
 
-[View Project →](https://github.com/Aleezy-code/customer-churn-ml)
-
+[GitHub Repository](https://github.com/Aleezy-code/web-pranks) | [Live Demo](https://webfun.click/)
 ## 📊 GitHub Statistics
 
 <div align="center">
