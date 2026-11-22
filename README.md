@@ -45,6 +45,14 @@ Transportation booking and dispatch management platform.
 
 [View Repository](https://github.com/Aleezy-code/transportation-booking-dispatch-system)
 
+<p align="center">
+  <img
+    src="assets/rydex-banner.jpeg"
+    alt="RYDEX Transportation Booking and Dispatch System"
+    width="100%"
+  />
+</p>
+
 ### 🤖 3. AI Career Navigator
 AI-powered resume analyzer with NLP, skill extraction and job matching.
 
