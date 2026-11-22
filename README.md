@@ -58,6 +58,14 @@ AI-powered resume analyzer with NLP, skill extraction and job matching.
 
 [View Repository](https://github.com/Aleezy-code/AI-Career-Navigator)
 
+<p align="center">
+  <img
+    src="assets/ai-career-banner.png"
+    alt="AI Career Navigator"
+    width="100%"
+  />
+</p>
+
 ### 🎭 4. Web Pranks
 Interactive React and TypeScript experience with physics-powered animations and creative browser effects.
 
