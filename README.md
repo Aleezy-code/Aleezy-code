@@ -27,20 +27,38 @@
 
 ## 🚀 Featured Projects
 
-### 💼 Nexora BusinessOS
-A modern SaaS business management platform built with Next.js, TypeScript and Tailwind CSS.
+### 💼 1. Nexora BusinessOS
+Modern SaaS business management platform built with Next.js, TypeScript and Tailwind CSS.
 
-[GitHub Repository](https://github.com/Aleezy-code/nexora-businessos) | [Live Demo](https://nexora-businessos.vercel.app/)
+[View Repository](https://github.com/Aleezy-code/nexora-businessos)
 
-### 🤖 AI Career Navigator
-An AI-powered resume analyzer that extracts skills from PDFs, analyzes candidate profiles and matches relevant job roles using NLP.
+### 🚘 2. RYDEX – Transportation Booking & Dispatch
+Transportation booking and dispatch management platform.
 
-[GitHub Repository](https://github.com/Aleezy-code/AI-Career-Navigator)
+[View Repository](https://github.com/Aleezy-code/transportation-booking-dispatch-system)
 
-### 🎮 Web Pranks
-An interactive React and TypeScript web experience featuring physics-based animations, creative browser effects and arcade games.
+### 🤖 3. AI Career Navigator
+AI-powered resume analyzer with NLP, skill extraction and job matching.
 
-[GitHub Repository](https://github.com/Aleezy-code/web-pranks) | [Live Demo](https://webfun.click/)
+[View Repository](https://github.com/Aleezy-code/AI-Career-Navigator)
+
+### 🎭 4. Web Pranks
+Interactive React and TypeScript experience with physics-powered animations and creative browser effects.
+
+[View Repository](https://github.com/Aleezy-code/web-pranks)
+[Live Demo](https://webfun.click/)
+
+### 🔐 5. Runaway Authentication
+Authentication system featuring Supabase, email verification and protected routes.
+
+[View Repository](https://github.com/Aleezy-code/runaway-login)
+
+### 🌌 6. Aleeza 3D Showcase
+Creative 3D portfolio experience with modern interactive visuals.
+
+[View Repository](https://github.com/Aleezy-code/aleeza-3d-showcase)
+
+
 ## 📊 GitHub Statistics
 
 <div align="center">
