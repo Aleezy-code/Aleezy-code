@@ -218,9 +218,7 @@ visual experience with modern web design concepts.
 <h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aleezy-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
-    width="100%"
+  <img src="https://github-profile-trophy.vercel.app/..."
   />
 </p>
 
