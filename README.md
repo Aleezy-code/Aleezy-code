@@ -100,7 +100,7 @@ animations, and entertaining interactive experiences.
 
 <p align="center">
   <img
-    src="assets/web-pranks-banner.png"
+    src="assets/web-pranks-banner.jpeg"
     alt="Web Pranks - Interactive Browser Experiments"
     width="100%"
   />
