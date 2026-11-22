@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/github-banner.png" width="100%" alt="Syeda Aleeza Kazmi - Developer Banner"/>
+  <img src="assets/github-banner.jpeg" width="100%" alt="Syeda Aleeza Kazmi - Developer Banner"/>
 </div>
 
 ---
