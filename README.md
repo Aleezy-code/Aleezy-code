@@ -189,23 +189,49 @@ visual experience with modern web design concepts.
 </p>
 
 
-## 📊 GitHub Statistics
+<h2 align="center">📊 GitHub Performance Dashboard</h2>
+
+<p align="center">
+  <i>Code. Create. Commit. Repeat.</i>
+</p>
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aleezy-code&show_icons=true&theme=tokyonight&hide_border=true)
+  <img width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=Aleezy-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezy-code&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Aleezy-code&theme=tokyonight&hide_border=true)
+  <img width="49%"
+    src="https://streak-stats.demolab.com?user=Aleezy-code&theme=tokyonight&hide_border=true"
+  />
 
 </div>
 
-<h2 align="center">📈 Contribution Activity</h2>
+<h3 align="center">💻 Language Distribution</h3>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aleezy-code&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="GitHub Contribution Graph"/>
-</div>
+<p align="center">
+  <img width="55%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezy-code&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
+  />
+</p>
+
+<h3 align="center">🏆 GitHub Achievements</h3>
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Aleezy-code&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"
+    width="100%"
+  />
+</p>
+
+<h3 align="center">📈 Contribution Activity</h3>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Aleezy-code&theme=tokyo-night&hide_border=true&area=true"
+    width="100%"
+  />
+</p>
 
 ---
 
