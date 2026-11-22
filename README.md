@@ -66,7 +66,7 @@ AI-powered resume analyzer with NLP, skill extraction and job matching.
   />
 </p>
 
-# 🎮 Web Pranks
+### 🎮 4. Web Pranks
 
 An interactive web experience built with React,
 TypeScript, and Phaser 3.
@@ -131,7 +131,7 @@ and organized frontend development.
 ## 📸 Project Preview
 
 <p align="center">
-  <img src="assets/runaway-login-banner.png"
+  <img src="assets/runaway-login-banner.jpeg"
        alt="Runaway Login Preview"
        width="100%">
 </p>
