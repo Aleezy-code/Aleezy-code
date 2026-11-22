@@ -215,11 +215,12 @@ visual experience with modern web design concepts.
   />
 </p>
 
-<h3 align="center">🏆 GitHub Achievements</h3>
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/..."
-  />
+  <a href="https://github.com/Aleezy-code?tab=achievements">
+    <img src="https://img.shields.io/badge/GitHub-Achievements-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements"/>
+  </a>
 </p>
 
 <h3 align="center">📈 Contribution Activity</h3>
