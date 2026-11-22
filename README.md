@@ -122,8 +122,56 @@ Authentication system featuring Supabase, email verification and protected route
 ### 🌌 6. Aleeza 3D Showcase
 Creative 3D portfolio experience with modern interactive visuals.
 
-[View Repository](https://github.com/Aleezy-code/aleeza-3d-showcase)
+<p align="center">
+  <img src="assets/aleeza-3d-banner.png"
+       alt="Aleeza 3D Showcase"
+       width="100%" />
+</p>
 
+<h1 align="center">✨ Aleeza 3D Showcase</h1>
+
+<p align="center">
+  An Interactive 3D Experience
+</p>
+
+<p align="center">
+  Exploring creative design, immersive visuals,
+  and interactive web experiences.
+</p>
+
+## 🌟 Overview
+
+A 3D showcase project focused on creating an engaging
+visual experience with modern web design concepts.
+
+## ✨ Highlights
+
+- Immersive 3D visual presentation
+- Interactive experience
+- Modern visual design
+- Creative animations
+- Responsive presentation
+
+## 🖼️ Preview
+
+<p align="center">
+  <img src="assets/aleeza-3d-banner.jpeg"
+       alt="3D Showcase Preview"
+       width="100%" />
+</p>
+
+## 👩‍💻 Developer
+
+**Syeda Aleeza Kazmi**
+
+[GitHub](https://github.com/Aleezy-code) |
+[LinkedIn](https://www.linkedin.com/in/syeda-aleeza-kazmi-a1a10438a/)
+
+---
+
+<p align="center">
+  Made with creativity by Syeda Aleeza Kazmi ❤️
+</p>
 
 
 ## 📊 GitHub Statistics
