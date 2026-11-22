@@ -189,13 +189,23 @@ visual experience with modern web design concepts.
 
 ---
 
-## 📊 GitHub Performance Dashboard
+<h2 align="center">📊 GitHub Performance Dashboard</h2>
 
 <p align="center">
   <i>Code. Create. Commit. Repeat.</i>
 </p>
 
-<div align="center">
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="Syeda Aleeza Kazmi GitHub Metrics Dashboard"
+    width="100%"
+  />
+</p>
+
+---
+
+## 📊 GitHub Statistics
 
   <img width="49%"
     src="https://github-readme-stats.vercel.app/api?username=Aleezy-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
