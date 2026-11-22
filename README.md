@@ -92,12 +92,6 @@ animations, and entertaining interactive experiences.
 
 [Explore Web Pranks](https://webfun.click/)
 
-## 👩‍💻 Developer
-
-**Syeda Aleeza Kazmi**
-
-[GitHub](https://github.com/Aleezy-code)
-
 <p align="center">
   <img
     src="assets/web-pranks-banner.jpeg"
@@ -106,18 +100,48 @@ animations, and entertaining interactive experiences.
   />
 </p>
 
+## 👩‍💻 Developer
+
+**Syeda Aleeza Kazmi**
+
+[GitHub](https://github.com/Aleezy-code)
+
+
 ### 🔐 5. Runaway Authentication
 Authentication system featuring Supabase, email verification and protected routes.
 
-[View Repository](https://github.com/Aleezy-code/runaway-login)
+# 🔐 Runaway Login
+
+An authentication-focused web development project
+designed around a modern login experience.
+
+## 🎯 Project Overview
+
+Runaway Login showcases an authentication interface
+with a focus on usability, visual presentation,
+and organized frontend development.
+
+## ✨ Project Highlights
+
+- Authentication interface
+- Modern login UI
+- User-friendly design
+- Responsive presentation
+
+## 📸 Project Preview
 
 <p align="center">
-  <img
-    src="assets/runaway-login-banner.jpeg"
-    alt="Runaway Login Authentication Project"
-    width="100%"
-  />
+  <img src="assets/runaway-login-banner.png"
+       alt="Runaway Login Preview"
+       width="100%">
 </p>
+
+## 👩‍💻 Developer
+
+**Syeda Aleeza Kazmi**
+
+[GitHub](https://github.com/Aleezy-code)
+
 
 ### 🌌 6. Aleeza 3D Showcase
 Creative 3D portfolio experience with modern interactive visuals.
