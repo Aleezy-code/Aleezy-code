@@ -204,6 +204,21 @@ visual experience with modern web design concepts.
 </p>
 
 ---
+<h2 align="center">🌌 My GitHub Universe</h2>
+
+<p align="center">
+  <i>My development journey, powered by real GitHub activity.</i>
+</p>
+
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="Aleeza's GitHub Metrics Dashboard"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 📊 GitHub Statistics
 
