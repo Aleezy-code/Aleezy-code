@@ -188,6 +188,7 @@ visual experience with modern web design concepts.
   Made with creativity by Syeda Aleeza Kazmi ❤️
 </p>
 
+---
 
 <h2 align="center">📊 GitHub Performance Dashboard</h2>
 
