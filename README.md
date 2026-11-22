@@ -55,10 +55,25 @@ An interactive React and TypeScript web experience featuring physics-based anima
 
 ---
 
-<div align="center">
+---
 
-### ✨ Let's Connect & Build Something Amazing!
+## 🌐 Connect With Me
 
-**Open to learning, collaboration and exciting opportunities.**
+<p align="center">
+  <a href="https://github.com/Aleezy-code">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/syeda-aleeza-kazmi-a1a10438a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  💼 Open to exciting projects, collaborations and opportunities.
+</p>
+
+---
+
+<p align="center">
+  <i>Thanks for visiting my GitHub profile! ✨</i>
+</p>
