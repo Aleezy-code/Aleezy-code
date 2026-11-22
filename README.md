@@ -182,7 +182,6 @@ visual experience with modern web design concepts.
 [GitHub](https://github.com/Aleezy-code) |
 [LinkedIn](https://www.linkedin.com/in/syeda-aleeza-kazmi-a1a10438a/)
 
----
 
 <p align="center">
   Made with creativity by Syeda Aleeza Kazmi ❤️
