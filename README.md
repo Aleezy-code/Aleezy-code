@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🚀 JARVIS AI – Initial Release v1.0.0
 
-<!--
-**Aleezy-code/Aleezy-code** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introducing JARVIS AI, an intelligent personal assistant project designed to bring AI-powered interaction, automation, and productivity into one unified system.
 
-Here are some ideas to get you started:
+### ✨ Core Technologies
+- Python
+- Google Gemini API
+- LangChain & LangGraph
+- FastAPI & Uvicorn
+- SQLite & AsyncSQLite
+- Telegram Bot API
+- Tavily Search API
+- APScheduler
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Project Capabilities
+- AI-powered conversational assistance
+- Intelligent agent workflows
+- Persistent state and checkpoint storage
+- Task scheduling and automation
+- Telegram integration
+- Web search capabilities
+
+### 🛠️ Installation
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Aleezy-code/ai-personal-assistant.git
+cd ai-personal-assistant
+pip install -r requirements.txt
+```
+
+### 🎯 Release Information
+- Version: 1.0.0
+- Release Type: Initial Release
+- Project: AI Personal Assistant – JARVIS Agent
+
+**JARVIS AI — Intelligence Meets Productivity.**
