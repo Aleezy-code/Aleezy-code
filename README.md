@@ -111,6 +111,14 @@ Authentication system featuring Supabase, email verification and protected route
 
 [View Repository](https://github.com/Aleezy-code/runaway-login)
 
+<p align="center">
+  <img
+    src="assets/runaway-login-banner.jpeg"
+    alt="Runaway Login Authentication Project"
+    width="100%"
+  />
+</p>
+
 ### 🌌 6. Aleeza 3D Showcase
 Creative 3D portfolio experience with modern interactive visuals.
 
