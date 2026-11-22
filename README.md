@@ -122,12 +122,6 @@ Authentication system featuring Supabase, email verification and protected route
 ### 🌌 6. Aleeza 3D Showcase
 Creative 3D portfolio experience with modern interactive visuals.
 
-<p align="center">
-  <img src="assets/aleeza-3d-banner.jpeg"
-       alt="Aleeza 3D Showcase"
-       width="100%" />
-</p>
-
 <h1 align="center">✨ Aleeza 3D Showcase</h1>
 
 <p align="center">
