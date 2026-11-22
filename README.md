@@ -205,26 +205,6 @@ visual experience with modern web design concepts.
 
 ---
 
-## 📊 GitHub Statistics
-
-  <img width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Aleezy-code&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
-  />
-
-  <img width="49%"
-    src="https://streak-stats.demolab.com?user=Aleezy-code&theme=tokyonight&hide_border=true"
-  />
-
-</div>
-
-<h3 align="center">💻 Language Distribution</h3>
-
-<p align="center">
-  <img width="55%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aleezy-code&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=8"
-  />
-</p>
-
 ## 🏆 GitHub Achievements
 
 <p align="center">
