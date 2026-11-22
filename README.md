@@ -60,7 +60,7 @@ AI-powered resume analyzer with NLP, skill extraction and job matching.
 
 <p align="center">
   <img
-    src="assets/ai-career-banner.png"
+    src="assets/ai-career-banner.jpeg"
     alt="AI Career Navigator"
     width="100%"
   />
