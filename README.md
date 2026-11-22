@@ -139,8 +139,9 @@ and organized frontend development.
 
 [GitHub](https://github.com/Aleezy-code)
 
+---
 
-### 🌌 6. Aleeza 3D Showcase
+# 🌌 6. Aleeza 3D Showcase
 Creative 3D portfolio experience with modern interactive visuals.
 
 <h1 align="center">✨ Aleeza 3D Showcase</h1>
