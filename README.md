@@ -34,7 +34,7 @@ Modern SaaS business management platform built with Next.js, TypeScript and Tail
 
 <p align="center">
   <img
-    src="assets/nexora-preview.png"
+    src="assets/nexora-preview.jpeg"
     width="100%"
     alt="Nexora BusinessOS Dashboard"
   />
