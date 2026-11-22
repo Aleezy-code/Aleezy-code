@@ -1,8 +1,5 @@
 <div align="center">
   <img src="assets/github-banner.png" width="100%" alt="Syeda Aleeza Kazmi - Developer Banner"/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;MERN+Stack+Developer;Python+%26+Flask+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
-
 </div>
 
 ---
