@@ -204,7 +204,23 @@ visual experience with modern web design concepts.
 </p>
 
 ---
+---
 
+<h2 align="center">🌌 My GitHub Skyline</h2>
+
+<p align="center">
+  <i>A 3D visualization of my GitHub contribution journey.</i>
+</p>
+
+<p align="center">
+  <img
+    src="./github-metrics.svg"
+    alt="Syeda Aleeza Kazmi - 3D GitHub Skyline"
+    width="100%"
+  />
+</p>
+
+---
 
 ## 📊 GitHub Statistics
 
