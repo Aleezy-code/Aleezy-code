@@ -32,6 +32,14 @@ Modern SaaS business management platform built with Next.js, TypeScript and Tail
 
 [View Repository](https://github.com/Aleezy-code/nexora-businessos)
 
+<p align="center">
+  <img
+    src="assets/nexora-preview.png"
+    width="100%"
+    alt="Nexora BusinessOS Dashboard"
+  />
+</p>
+
 ### 🚘 2. RYDEX – Transportation Booking & Dispatch
 Transportation booking and dispatch management platform.
 
