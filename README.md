@@ -66,11 +66,45 @@ AI-powered resume analyzer with NLP, skill extraction and job matching.
   />
 </p>
 
-### 🎭 4. Web Pranks
-Interactive React and TypeScript experience with physics-powered animations and creative browser effects.
+# 🎮 Web Pranks
 
-[View Repository](https://github.com/Aleezy-code/web-pranks)
-[Live Demo](https://webfun.click/)
+An interactive web experience built with React,
+TypeScript, and Phaser 3.
+
+Explore creative browser effects, physics-based
+animations, and entertaining interactive experiences.
+
+## ✨ Features
+
+- Interactive browser experiences
+- Physics-based animations
+- Creative visual effects
+- Engaging frontend interactions
+- Arcade-style experiences
+
+## 🛠️ Tech Stack
+
+- React
+- TypeScript
+- Phaser 3
+
+## 🌐 Live Demo
+
+[Explore Web Pranks](https://webfun.click/)
+
+## 👩‍💻 Developer
+
+**Syeda Aleeza Kazmi**
+
+[GitHub](https://github.com/Aleezy-code)
+
+<p align="center">
+  <img
+    src="assets/web-pranks-banner.png"
+    alt="Web Pranks - Interactive Browser Experiments"
+    width="100%"
+  />
+</p>
 
 ### 🔐 5. Runaway Authentication
 Authentication system featuring Supabase, email verification and protected routes.
@@ -81,6 +115,7 @@ Authentication system featuring Supabase, email verification and protected route
 Creative 3D portfolio experience with modern interactive visuals.
 
 [View Repository](https://github.com/Aleezy-code/aleeza-3d-showcase)
+
 
 
 ## 📊 GitHub Statistics
