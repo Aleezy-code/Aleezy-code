@@ -35,12 +35,20 @@ Building modern web applications and intelligent digital solutions.
 
 ## 🚀 Featured Projects
 
-| Project | Description |
-|---|---|
-| Nexora BusinessOS | MERN Business Management Application |
-| AI Career Navigator | AI-powered Resume Analyzer |
-| Customer Churn ML | Machine Learning Prediction |
-| Flask Analytics Dashboard | Data Analytics & Visualization |
+### 1. Nexora BusinessOS
+A modern MERN-based business management application.
+
+[View Project →](https://github.com/Aleezy-code/nexora-businessos)
+
+### 2. AI Career Navigator
+An AI-powered resume analyzer using NLP and skill matching.
+
+[View Project →](https://github.com/Aleezy-code/AI-Career-Navigator)
+
+### 3. Customer Churn Prediction
+Machine Learning project for predicting customer churn.
+
+[View Project →](https://github.com/Aleezy-code/customer-churn-ml)
 
 ## 📊 GitHub Statistics
 
