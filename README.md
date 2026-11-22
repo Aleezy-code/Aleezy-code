@@ -123,7 +123,7 @@ Authentication system featuring Supabase, email verification and protected route
 Creative 3D portfolio experience with modern interactive visuals.
 
 <p align="center">
-  <img src="assets/aleeza-3d-banner.png"
+  <img src="assets/aleeza-3d-banner.jpeg"
        alt="Aleeza 3D Showcase"
        width="100%" />
 </p>
