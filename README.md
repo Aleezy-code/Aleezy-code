@@ -189,7 +189,7 @@ visual experience with modern web design concepts.
 
 ---
 
-<h2 align="center">📊 GitHub Performance Dashboard</h2>
+## 📊 GitHub Performance Dashboard
 
 <p align="center">
   <i>Code. Create. Commit. Repeat.</i>
